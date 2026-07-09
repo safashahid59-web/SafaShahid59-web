@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Safa Shahid 👋
 
-<!--
-**safashahid59-web/SafaShahid59-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BS Software Engineering Student
 
-Here are some ideas to get you started:
+💻 Flutter & Firebase Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Full Stack Development
+
+📱 Interested in Mobile App Development
+
+## 🛠 Skills
+
+- Flutter
+- Dart
+- Firebase
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- REST APIs
+
+## 📂 Projects
+
+- 🚌 BusVision – Smart Entry & Exit Monitoring System
+- 🍽️ Biker hub
+- 💊 Medicine Supply Management App
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/safa-shahid-928aa0412?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: safashahid59@gmail.com
